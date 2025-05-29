@@ -22,7 +22,7 @@ In addition to my regular work, I also work on my own projects, creating useful 
 
 ## Website URL 👁‍🗨
 
-✔ Here! -> [jeandv.vercel.app](https://abdulmoiz.vercel.app)
+✔ Here! -> [abdulmoiz.vercel.app]
 
 ## Used tech tools 🛠️
 
